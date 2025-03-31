@@ -2480,8 +2480,9 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   runspeed: 5
-  rotationSpeed: 250
+  mouseSensitivity: 500
   animator: {fileID: 2122274556}
+  cameraTransform: {fileID: 449539754}
 --- !u!95 &2122274556 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 5866666021909216657, guid: c1b016b3be8e90748b8074b539151f48, type: 3}
