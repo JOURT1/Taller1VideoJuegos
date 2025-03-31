@@ -6,7 +6,7 @@ public class GeneradorCasita : MonoBehaviour
     {
         // 🧭 Usa directamente la posición, rotación y escala base
         Vector3 basePos = transform.position;
-        Quaternion baseRot = Quaternion.Euler(0, -90, 0);
+        Quaternion baseRot = Quaternion.Euler(0, 180, 0);
         float escala = 1f;
 
         // 🏠 Objeto vacío padre solo para organización

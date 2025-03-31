@@ -5,7 +5,7 @@ public class GeneradorRobot : MonoBehaviour
     void Start()
     {
         Vector3 basePos = transform.position;
-        Quaternion baseRot = Quaternion.Euler(0, -90, 0);
+        Quaternion baseRot = Quaternion.Euler(0, 0, 0);
         float escala = 1f;
 
         GameObject robot = new GameObject("RobotCompleto");

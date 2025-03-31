@@ -6,7 +6,7 @@ public class GeneradorEdificio : MonoBehaviour
     {
         // 📍 Configuración base: posición, rotación, escala general
         Vector3 basePos = transform.position;
-        Quaternion baseRot = Quaternion.Euler(0, -90, 0);
+        Quaternion baseRot = Quaternion.Euler(0, 180, 0);
         float escala = 1.5f;
 
         // 🧱 Objeto principal (padre)
