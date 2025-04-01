@@ -38,7 +38,7 @@ Este proyecto consiste en la creación de una escena en Unity utilizando herrami
 ```
 
 ## 📢 Créditos
-- **Joel Suarez**
+- **Jhoel Suarez**
 - **Justin Gomezcoello**
 - **Mateo Sotomayor**
 - **Stefan Jativa**
