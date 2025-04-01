@@ -17,7 +17,7 @@ Este proyecto consiste en la creación de una escena en Unity utilizando herrami
 ## 🚀 Instalación y Ejecución
 1. Clona este repositorio en tu máquina local:
    ```sh
-   git clone https://github.com/tuusuario/tu-repositorio.git
+   git clone https://github.com/JOURT1/Taller1VideoJuegos
    ```
 2. Abre Unity Hub y agrega la carpeta del proyecto `Taller1VideoJuegos`.
 3. Asegúrate de tener instaladas las dependencias necesarias (paquetes en `Packages`).
