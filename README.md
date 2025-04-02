@@ -26,7 +26,7 @@ Este proyecto consiste en la creación de una escena en Unity utilizando herrami
    - Ejecutar la escena desde Unity.
 
 ## 🎥 Video de Demostración
-[Enlace al video de demostración](#) (Subir a YouTube, Drive u otro servicio y reemplazar con el enlace correspondiente).
+https://youtu.be/M-CJ-YDHOy8 
 
 ## 📂 Estructura del Repositorio
 ```
