@@ -13,6 +13,7 @@ Este proyecto consiste en la creación de una escena en Unity utilizando herrami
 - Unity 2021.3+  
 - C# (para lógica de scripts si aplica)
 - GitHub para versionado
+- Mixamo
 
 ## 🚀 Instalación y Ejecución
 1. Clona este repositorio en tu máquina local:
